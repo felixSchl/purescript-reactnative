@@ -26,7 +26,7 @@
     "purescript-maps": "^3.0.0",
     "purescript-nullable": "^3.0.0",
     "purescript-eff": "^3.1.0",
-    "purescript-records": "^1.0.0"
+    "purescript-record": "^0.2.0"
   },
   "devDependencies": {
     "purescript-spec": "^0.13.0"
